@@ -52,11 +52,10 @@
                 </p>
             </div>
             <div class="col-span-6" data-aos="fade-up" data-aos-delay="400">
-                <div class=""></div>
                 <div class="w-full h-80">
-                    <video controls autoplay class="w-full h-full" width="400" height="360">
+                    <video controls autoplay class="w-full h-full" width="480" height="360">
                     <!-- <video controls class="w-full h-full"> -->
-                        <source src="{{asset('assets/videos/videosmk.mp4')}}" type="video/mp4">
+                        <source src="{{asset('assets/videos/videosmk.mp4')}}" type="video/mp4"> <br>
                         Your browser does not support the video tag.
                     </video>
                 </div>
