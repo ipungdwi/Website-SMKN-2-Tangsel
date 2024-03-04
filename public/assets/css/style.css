@@ -904,12 +904,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   z-index: -1;
   background: rgba(19, 106, 213, 0.2); }
 
-  @media only screen and (max-width: 600px) {
-    .bg-1:before {
-        height: 70%; /* Ubah tinggi menjadi 50% pada layar berukuran 600px atau kurang */
-        right: 0%; /* Ubah posisi top pada layar berukuran 600px atau kurang */
-    }
-}
 
 .bg-2:before {
   content: "";
