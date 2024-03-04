@@ -1,6 +1,8 @@
-# Enable URL Rewriting
-RewriteEngine On
-# Rewrite rule to redirect requests to index.php
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php?/$1 [L]
+RewriteEngine on
+
+# serve existing files in the /public folder as if they were in /
+RewriteCond %{DOCUMENT_ROOT}public%{REQUEST_URI} -f
+RewriteRule (.+) /laravel-app/public/$1 [L]
+
+# route everything else to /public/index.php
+RewriteRule ^ /laravel-app/public/index.php [L]
