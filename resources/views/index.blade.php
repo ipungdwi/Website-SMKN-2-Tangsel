@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="Untree.co">
     <link rel="shortcut icon" href="favicon.png">
-    @vite('resources/css/app.css')
+    
 
     <meta name="description" content="" />
     <meta name="keywords" content="bootstrap, bootstrap4" />
