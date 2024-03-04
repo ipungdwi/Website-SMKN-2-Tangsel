@@ -1,10 +1,3 @@
-var swiper = new Swiper('.swiper-container', {
-    loop: true, // Untuk membuat slider kembali ke slide pertama setelah slide terakhir
-    autoplay: {
-        delay: 5000, // Atur waktu pengguliran otomatis dalam milidetik (di sini diatur 5 detik)
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
+$(".carousel").carousel({
+    interval: 3000, // Atur interval di sini (dalam milidetik), misalnya 2000 untuk 2 detik
 });

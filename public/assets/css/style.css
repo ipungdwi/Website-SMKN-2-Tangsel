@@ -33,6 +33,7 @@ body {
     opacity: 1;
     visibility: visible; }
 
+
 .text-black {
   color: #000000 !important; }
 
@@ -72,7 +73,7 @@ a.text-primary {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-family: "Display Playfair", serif;
-  color: #black; }
+  color: black; }
 
 .btn {
   padding-top: 15px;
@@ -760,6 +761,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       font-size: 20px; } }
   .untree_co-section .heading strong {
     font-weight: 700; }
+    
 
 .position-relative {
   position: relative; }
@@ -1081,16 +1083,35 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       color: #136ad5;
       font-size: 30px; }
 
-.staff {
-  padding: 20px; }
-  .staff img {
-    border-radius: 40px;
-    width: 200px; }
-  .staff h3 {
-    font-size: 20px;
-    color: #136ad5; }
-  .staff .position {
-    color: rgba(52, 58, 64, 0.5); }
+      .staff {
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .staff > div {
+        text-align: center;
+        margin: 5px; /* Atur margin antara elemen .staff */
+        flex: 1 2 calc(50% - 30px); /* Atur lebar elemen agar tiga elemen per baris */
+      }
+      
+      .staff img {
+        border-radius: 10px;
+        width: 100%;
+        max-width: 200px;
+        margin-bottom: 10px;
+      }
+      
+      .staff h3 {
+        font-size: 20px;
+        color: #136ad5;
+      }
+      
+      .staff .position {
+        color: rgba(52, 58, 64, 0.5);
+      }
 
 .custom-pagination li {
   display: inline-block; }
@@ -1593,6 +1614,26 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     content: "\e5ca";
     font-size: 20px;
     font-family: 'icomoon'; }
+
+    .ul-checks {
+      counter-reset: item;
+    }
+    
+    .ul-checks li {
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 10px;
+    }
+    
+    .ul-checks li:before {
+      position: absolute;
+      left: 0;
+      top: -.2rem;
+      content: counter(item) ". "; /* Menggunakan counter untuk angka */
+      font-size: 20px;
+      font-family: 'icomoon';
+      counter-increment: item;
+    }
 
 .ul-check.primary li:before {
   color: #136ad5; }
