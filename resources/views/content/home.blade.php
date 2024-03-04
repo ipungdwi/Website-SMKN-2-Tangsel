@@ -54,7 +54,7 @@
             <div class="col-span-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="bg-1"></div>
                 <div class="w-full h-80">
-                    <video controls autoplay class="w-full h-full" width="600" height="350">
+                    <video controls autoplay class="w-full h-full" width="480" height="360">
                     <!-- <video controls class="w-full h-full"> -->
                         <source src="{{asset('assets/videos/videosmk.mp4')}}" type="video/mp4">
                         Your browser does not support the video tag.
