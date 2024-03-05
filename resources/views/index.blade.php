@@ -102,7 +102,7 @@
                         <li class="{{ request()->is('facility') ? 'active' : '' }}"><a href="{{ url('facility') }}" >Fasilitas</a></li>
                         <li class="{{ request()->is('extracurricular') ? 'active' : '' }}"><a href="{{ url('extracurricular') }}">Ekstrakulikuler</a></li>
                         <li class="{{ request()->is('bkk') ? 'active' : '' }}"><a href="{{ url('bkk') }}">BKK</a></li>
-                        <li class="{{ request()->is('news') ? 'active' : '' }}"><a href="{{ url('news') }}">news</a></li>
+                        <li class="{{ request()->is('news') ? 'active' : '' }}"><a href="{{ url('news') }}">News</a></li>
                         <li class="{{ request()->is('contact') ? 'active' : '' }}"><a href="{{ url('contact') }}">Kontak</a></li>
                         <!-- <li class="has-children">
                             <a href="#">Dropdown</a>
