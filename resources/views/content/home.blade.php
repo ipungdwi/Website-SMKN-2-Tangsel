@@ -314,7 +314,7 @@
                                 </div>
                                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="0">
                                     <figure class="img-wrap-2">
-                                        <img src="assets/images/Arfan.jpg" alt="Image" class="img-fluid" style="border-radius: 30px;">
+                                        <img src="assets/images/guru/Arfan.jpg" alt="Image" class="img-fluid" style="border-radius: 30px;">
                                         <div class="dotted"></div>
                                     </figure>
                                 </div>
