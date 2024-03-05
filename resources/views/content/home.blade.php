@@ -307,7 +307,7 @@
                                     <div class="section-title mb-3" data-aos="fade-up" data-aos-delay="0">
                                         <h2 class="line-bottom mb-5">Arfan Fajrin, ST</h2>
                                     </div>
-                                    <p data-aos="fade-up" data-aos-delay="100">"Sebagai pendidik, kita memiliki kekuatan untuk membentuk masa depan. Setiap siswa adalah potensi yang perlu ditemukan dan dikembangkan."</p>
+                                    <p data-aos="fade-up" data-aos-delay="100">"Guru perlu mengintegrasikan teknologi dengan lancar ke dalam kurikulum daripada melihatnya sebagai tambahan, renungan, atau peristiwa."</p>
                                     <br>
                                     <br>
                                     <p data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-warning">Kepala Program Keahlian<br>Elektronika Industri</a></p>
