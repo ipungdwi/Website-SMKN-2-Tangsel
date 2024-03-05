@@ -46,14 +46,7 @@
                     <li>Mewujudkan lingkungan sekolah yang nyaman, aman, rindang, asri dan bersih.</li>
                 </ul>
             </div>
-            <div class="col-lg-9" style="text-align: justify; " data-aos="fade-up" data-aos-delay="0">
-                <h2 class="line-bottom text-center mb-4">Kolom Alumni</h2>
-                <p class="mb-3" style="text-indent: 0.5in; ">Untuk selalu menjaga silahturahmi SMKN 2 Tangerang Selatan dengan peserta didik yang telah lulus dan untuk meningkatkan kualitas lulusan ke depannya, kami memohon kepada para alumni SMKN 2
-                    Tangerang Selatan untuk berkenan mengisikan data-data pada link Gform berikut ini. Tim BKK SMKN 2 Tangerang Selatan mengucapkan terima kasih dan Salam Sukses.<br> </p>
-                <div class="row align-items-center justify-content-center ">
-                    <a class="btn btn-success" href="https://forms.gle/TuyZsArrVPqCoWqi9" role="button" target="_blank">ALUMNI</a>
-                </div>
-            </div>
+            
         </div>
     </div>
 </div>

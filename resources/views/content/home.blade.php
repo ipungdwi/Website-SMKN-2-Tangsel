@@ -54,7 +54,7 @@
             <div class="col-span-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="w-full h-80">
                     <video controls autoplay class="w-full h-full" width="480" height="360">
-                    <!-- <video controls class="w-full h-full"> -->
+                        <!-- <video controls class="w-full h-full"> -->
                         <source src="{{asset('assets/videos/videosmk.mp4')}}" type="video/mp4"> <br>
                         Your browser does not support the video tag.
                     </video>
@@ -450,9 +450,28 @@
     </div>
 </div> <!-- /.untree_co-section -->
 
-
-
 <div class="untree_co-section bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <div class="" data-aos="fade-up" data-aos-delay="100">
+                    <div class="feature text-center d-flex flex-column align-items-center media-h">
+                        <h3 class="line-bottom text-center  mb-4">ALUMNI</h3>
+                        <p class="mb-3" style="text-indent: 0.5in; text-align: justify; ">Untuk selalu menjaga silahturahmi SMKN 2 Tangerang Selatan dengan peserta didik yang telah lulus dan untuk meningkatkan kualitas lulusan ke depannya, kami memohon kepada para alumni SMKN 2
+                            Tangerang Selatan untuk berkenan mengisikan data-data pada link Gform berikut ini. Tim BKK SMKN 2 Tangerang Selatan mengucapkan terima kasih dan Salam Sukses.<br> </p>
+                        <div class="row align-items-center justify-content-center ">
+                            <a class="btn btn-success" href="https://forms.gle/TuyZsArrVPqCoWqi9" role="button" target="_blank">ALUMNI</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="untree_co-section">
     <div class="container">
         <div class="row justify-content-center mb-5">
             <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="0">
@@ -491,7 +510,7 @@
     </div>
 </div> <!-- /.untree_co-section -->
 
-<div class="untree_co-section">
+<div class="untree_co-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5">
             <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="0">
@@ -924,59 +943,6 @@
         </div>
     </div>
 </div>  -->
-
-    <!-- 
-<div class="untree_co-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7 text-center mx-auto">
-
-                <h3 class="line-bottom mb-4">ALUMNI</h3>
-                <div class="owl-carousel wide-slider-testimonial">
-                    <div class="item">
-                        <blockquote class="block-testimonial">
-
-                            <p>
-                                &ldquo;Sekolah ini bukan hanya tempat belajar, tetapi juga tempat di mana saya menemukan teman sejati, guru yang menginspirasi, dan pelajaran berharga untuk kehidupan.&rdquo;</p>
-                            <div class="author">
-                                <img src="assets/images/person_1.jpg" alt="Free template by TemplateUX">
-                                <h3>John Doe</h3>
-                                <p class="position">CEO, Founder</p>
-                            </div>
-                        </blockquote>
-                    </div>
-
-                    <div class="item">
-                        <blockquote class="block-testimonial">
-
-                            <p>
-                                &ldquo;Terima kasih kepada sekolah ini yang telah membimbing saya melalui perjalanan pendidikan. Pengalaman di sini tidak hanya membentuk akademik saya, tetapi juga karakter dan jiwa kepemimpinan.&rdquo;</p>
-                            <div class="author">
-                                <img src="assets/images/person_2.jpg" alt="Free template by TemplateUX">
-                                <h3>James Woodland</h3>
-                                <p class="position">Designer at Facebook</p>
-                            </div>
-                        </blockquote>
-                    </div>
-
-                    <div class="item">
-                        <blockquote class="block-testimonial">
-
-                            <p>
-                                &ldquo;Sekolah ini adalah fondasi bagi impian dan pencapaian saya. Saya bangga menjadi bagian dari keluarga sekolah ini, dan saya akan selalu mengingat nilai-nilai yang diajarkan di sini.&rdquo;</p>
-                            <div class="author">
-                                <img src="assets/images/person_3.jpg" alt="Free template by TemplateUX">
-                                <h3>Rob Smith</h3>
-                                <p class="position">Product Designer at Twitter</p>
-                            </div>
-                        </blockquote>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div> -->
 
 
     <!-- <div class="untree_co-section">
