@@ -149,7 +149,7 @@
                         <p style="text-align: justify;">SMKN 2 Tangsel terus mengokohkan komitmennya sebagai pusat pendidikan unggulan yang menghasilkan lulusan siap menghadapi tantangan dan tumbuh bersama dalam dunia kerja.</p>
                     </div> <!-- /.widget -->
                     <div class="widget">
-                        <h3>Lest Connect</h3>
+                        <h3>Let's Connect</h3>
                         <ul class="list-unstyled social">
                             <li><a href="https://www.instagram.com/official.smkn2tangsel?igsh=MTR1YTYwczNzenI0"><span class="icon-instagram"></span></a></li>
                             <li><a href="https://www.youtube.com/@smkn2tangerangselatan905"><span class="icon-youtube"></span></a></li>
