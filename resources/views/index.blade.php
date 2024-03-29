@@ -145,8 +145,8 @@
                 <div class="col-lg-3 mr-auto">
                     <div class="widget">
                         <img src="{{ asset('assets/images/logo/logosmk.png') }}" alt="Nama Logo" style="margin-top: -10px; width: 100px; height: 100px;">
-                        &nbsp
-                        <p style="text-align: justify;">SMKN 2 Tangsel terus mengokohkan komitmennya sebagai pusat pendidikan unggulan yang menghasilkan lulusan siap menghadapi tantangan dan tumbuh bersama dalam dunia kerja.</p>
+                        
+                        <p style="text-align: justify;"> <br>SMKN 2 Tangsel terus mengokohkan komitmennya sebagai pusat pendidikan unggulan yang menghasilkan lulusan siap menghadapi tantangan dan tumbuh bersama dalam dunia kerja.</p>
                     </div> <!-- /.widget -->
                     <div class="widget">
                         <h3>Let's Connect</h3>
